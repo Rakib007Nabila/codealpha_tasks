@@ -1,4 +1,4 @@
-# codealpha_tasks
+# CodeAlpha_tasks
 I enrolled for an one month inrernship in the Machine Learning domain in CodeAlpha. This repo consists of the three projects I made during this internship period.
 
 1. Emotion Recognition from using Specch using ML
@@ -249,7 +249,10 @@ else:
 ```
 pip install librosa numpy pandas scikit-learn tensorflow matplotlib xgboost joblib
 ```
-# task 4(Detection of Parkinso's using ML)
+
+
+
+# Task 4(Detection of Parkinso's using ML)
 
 # Project Overview
 
